@@ -1,0 +1,4 @@
+foo
+/Users/msquared/Documents/Training/zweb/nodeschool/learnyounode/03_my_first_io/foo.txt
+foo
+foo

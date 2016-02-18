@@ -1,0 +1,4 @@
+foo
+/Users/msquared/Documents/Training/zweb/nodeschool/learnyounode/05_filtered_ls/
+js
+foo
